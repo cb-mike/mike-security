@@ -1,56 +1,94 @@
-# 👋 Hi, I'm Mike 
+# Hi, I'm Mike 👋
 
-I'm an aspiring **Cloud Security and Cybersecurity professional** with a strong foundation in networking, operating systems, and cloud computing. I enjoy learning new technologies, solving technical problems, and building hands-on projects that strengthen my cybersecurity and cloud engineering skills.
+## 🔐 Aspiring Cybersecurity Analyst | Networking | Cloud Security
 
-My training includes certifications from **Cisco Networking Academy**, **Google Cloud**, and **Amazon Web Services (AWS)**, where I've developed practical knowledge in network security, endpoint protection, cloud security, Linux, Windows, virtualization, and Python.
+I'm building my career in cybersecurity with a focus on **network security, cloud security, and security operations**.
 
-## 🔐 Areas of Expertise
+I enjoy learning through hands-on labs and documenting practical cybersecurity projects using technologies such as Cisco networking, AWS, Google Cloud, and security tools.
 
-* Cloud Security Fundamentals
-* Cybersecurity Fundamentals
-* Network Defense
-* Endpoint Security
-* Networking Devices & Initial Configuration
-* Operating System Fundamentals
-* Linux & Windows Administration
-* Network Troubleshooting
-* Identity and Access Management (IAM)
-* Risk Management
-* Python (Beginner)
-* Packet Tracer 
-* VirtualBox & Virtual Machines
+## 🛠️ Technical Skills
 
-## 📜 Certifications
+### Networking
 
-### Cisco Networking Academy
+* TCP/IP
+* IPv4 addressing
+* Subnetting
+* DNS
+* DHCP
+* VLANs
+* AAA
+* TACACS+
+* RADIUS
+* Cisco Packet Tracer
 
-* Introduction to Cybersecurity
-* Networking Basics
-* Hardware Basics
-* Networking Operating System Basics
-* Networking Devices and Initial Configuration
-* Endpoint Security
-* Network Defense
+### Cybersecurity
 
-### Google
+* Network security
+* Threat analysis
+* Vulnerability identification
+* Phishing awareness
+* Access control
+* Authentication
+* Security monitoring fundamentals
 
-* Google Cloud Cybersecurity
+### Cloud
 
-### Amazon Web Services (AWS)
+* AWS fundamentals
+* Google Cloud fundamentals
+* Cloud security concepts
+* Identity and access management
 
+### Tools
+
+* Cisco Packet Tracer
+* Nmap
+* Git & GitHub
+* Linux
+* Python
+
+## 🚀 Featured Projects
+
+### 🔹 Cisco Packet Tracer – Threat Landscape
+
+Investigated network misconfiguration, phishing, rogue wireless access points, and DNS hijacking.
+
+➡️ [View Project]
+
+### 🔹 Cisco AAA Authentication
+
+Hands-on lab implementing authentication and authorization concepts using Cisco networking technologies.
+
+➡️ [View Project]
+
+### 🔹 TACACS+ & RADIUS
+
+Configured and investigated centralized server-based authentication in Cisco Packet Tracer.
+
+➡️ [View Project]
+
+## 📜 Certifications & Training
+
+* Cisco Networking Academy – Introduction to Cybersecurity
+* Cisco Networking Academy – Networking Basics
+* Cisco Networking Academy – Hardware Basics
+* Google Cloud Cybersecurity Training
 * AWS Cloud Practitioner Essentials
+* Junior Cybersecurity Analyst Career Path – Cisco
 
-## 🚀 Current Goals
+## 📚 Currently Learning
 
-I am actively building projects in:
-
+* CCST Cybersecurity
+* CCNA
 * Cloud Security
-* Cybersecurity
-* Network Security
-* Linux Administration
-* Python Automation
-* Infrastructure and Virtualization
+* Python for Cybersecurity
+* Linux
 
-Through this GitHub portfolio, I document my learning journey, showcase practical projects, and continuously expand my technical skills. My goal is to contribute to secure, reliable, and scalable IT systems while growing as a Cloud Security and Cybersecurity professional.
+## 🎯 Career Goal
 
-Thank you for visiting my profile. Feel free to explore my repositories, follow my progress, or connect with me!
+I'm seeking opportunities to start my professional career in **cybersecurity, SOC, network security, cloud security, or IT security** where I can continue developing practical skills and contribute to a security-focused team.
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/mike-nganimana-7a157b21b
+* Email: mikenganimana@gmail.com
+  
