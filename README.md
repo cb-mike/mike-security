@@ -52,7 +52,7 @@ I enjoy learning through hands-on labs and documenting practical cybersecurity p
 
 Investigated network misconfiguration, phishing, rogue wireless access points, and DNS hijacking.
 
-➡️ [View Project]
+➡️ https://github.com/cb-mike/packet-tracer-threat-landscape
 
 ### 🔹 Cisco AAA Authentication
 
