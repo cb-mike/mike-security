@@ -54,6 +54,10 @@ Investigated network misconfiguration, phishing, rogue wireless access points, a
 
 ➡️ https://github.com/cb-mike/packet-tracer-threat-landscape
 
+### 🔹 Cloud Security
+
+➡️https://github.com/cb-mike/Cloud-Labs
+
 ### 🔹 Cisco AAA Authentication
 
 Hands-on lab implementing authentication and authorization concepts using Cisco networking technologies.
