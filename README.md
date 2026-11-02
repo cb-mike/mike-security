@@ -33,10 +33,12 @@ I enjoy learning through hands-on labs and documenting practical cybersecurity p
 
 ### Cloud
 
-* AWS fundamentals
-* Google Cloud fundamentals
-* Cloud security concepts
-* Identity and access management
+* AWS fundamentals.
+* Google Cloud fundamentals.
+* Microsoft Azure fundamentals.
+* Microsoft Security, Compliance, and Identity Fundamentals.
+* Cloud security concepts.
+* Identity and access management.
 
 ### Tools
 
