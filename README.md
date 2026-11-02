@@ -77,6 +77,8 @@ Configured and investigated centralized server-based authentication in Cisco Pac
 * Cisco Networking Academy – Hardware Basics
 * Google Cloud Cybersecurity Training
 * AWS Cloud Practitioner Essentials
+* Microsoft Azure fundamentals (AZ–900) 
+* Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
 * Junior Cybersecurity Analyst Career Path – Cisco
 
 ## 📚 Currently Learning
